@@ -1,0 +1,32 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+html{
+    background-color: #000000;
+    background-image: url("../img/bgr_wit.png");
+    background-repeat: repeat-x;
+}
+
+body{
+    background-color: #9e9e9e;
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.head{
+    background-color: #25387F;
+}
+
+.logo{
+    height: 175px;
+}
+
+
+.headpd{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 100px;
+}
